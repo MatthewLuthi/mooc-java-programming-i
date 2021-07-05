@@ -1,0 +1,14 @@
+Pancake dough
+60
+milk
+egg
+flour
+sugar
+salt
+butter
+
+Meatballs
+20
+ground meat
+egg
+breadcrumbs
